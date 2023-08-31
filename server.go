@@ -9,8 +9,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/go-chi/chi"
 
-	hackernews "github.com/chrikar/hackernews/graph"
-	database "github.com/chrikar/hackernews/internal/pkg/db/mysql"
+	hackernews "github.com/chrikar/go-graphql-hackernews/graph"
+	database "github.com/chrikar/go-graphql-hackernews/internal/pkg/db/mysql"
 )
 
 const defaultPort = "8080"

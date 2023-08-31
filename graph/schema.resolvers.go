@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/chrikar/hackernews/graph/model"
+	"github.com/chrikar/go-graphql-hackernews/graph/model"
 )
 
 // CreateLink is the resolver for the createLink field.
