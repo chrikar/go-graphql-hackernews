@@ -5,7 +5,7 @@ go 1.22
 require (
 	github.com/99designs/gqlgen v0.17.36
 	github.com/vektah/gqlparser/v2 v2.5.8
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.21.0
 )
 
 require (
@@ -33,5 +33,5 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.3 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 )
