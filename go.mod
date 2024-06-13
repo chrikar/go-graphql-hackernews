@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/99designs/gqlgen v0.17.36
-	github.com/vektah/gqlparser/v2 v2.5.8
+	github.com/vektah/gqlparser/v2 v2.5.16
 	golang.org/x/crypto v0.21.0
 )
 
@@ -18,7 +18,6 @@ require (
 	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/stretchr/testify v1.8.4 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0 // indirect
 	go.opentelemetry.io/otel/trace v1.24.0 // indirect
 )
