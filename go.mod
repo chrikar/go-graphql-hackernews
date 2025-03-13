@@ -6,7 +6,7 @@ require (
 	github.com/99designs/gqlgen v0.17.36
 	github.com/golang-migrate/migrate v3.5.4+incompatible
 	github.com/vektah/gqlparser/v2 v2.5.16
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.36.0
 )
 
 require (
