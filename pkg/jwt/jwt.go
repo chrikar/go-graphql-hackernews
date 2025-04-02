@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/golang-jwt/jwt"
+	"github.com/golang-jwt/jwt/v5"
 )
 
 // secret key being used to sign tokens
