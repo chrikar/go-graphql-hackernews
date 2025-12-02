@@ -1,6 +1,6 @@
 module github.com/chrikar/go-graphql-hackernews
 
-go 1.24.8
+go 1.25.4
 
 require (
 	github.com/99designs/gqlgen v0.17.36
